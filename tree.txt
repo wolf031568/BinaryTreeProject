@@ -1,0 +1,238 @@
+Parent: Abraham Lincoln was the 16th president of the United States
+Left: 
+World War II ended in 1945
+Right: 
+Genghis khan was the founder of the Mongol Empire
+
+Parent: 
+World War II ended in 1945
+Left: 
+The Great Wall of China is entirely made of stone
+Right: 
+Marie Curie was the first known woman to win a Nobel Prize
+
+Parent: 
+The Great Wall of China is entirely made of stone
+Left: 
+The Soviet Union existed before World War II
+Right: 
+Christopher Columbus didn't discover America
+
+Parent: 
+The Soviet Union existed before World War II
+Left: 
+Napoleon Bonaparte was born in France
+Right: Nullptr
+
+Parent: 
+Napoleon Bonaparte was born in France
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Christopher Columbus didn't discover America
+Left: Nullptr
+Right: 
+The saxophone was invented by Adolphe Sax
+
+Parent: 
+The saxophone was invented by Adolphe Sax
+Left: Nullptr
+Right: 
+The Magna Carta was signed in 1215
+
+Parent: 
+The Magna Carta was signed in 1215
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Marie Curie was the first known woman to win a Nobel Prize
+Left: 
+Michelangelo painted the Mona Lisa
+Right: 
+The Great Pyramid of Giza is the only one of the ancient wonders of the world that still stands
+
+Parent: 
+Michelangelo painted the Mona Lisa
+Left: 
+Cleopatra was Egyptian
+Right: Nullptr
+
+Parent: 
+Cleopatra was Egyptian
+Left: 
+The Hundred Years' War actually lasted over 100 years
+Right: 
+Tomatoes orgininally came from the New World
+
+Parent: 
+The Hundred Years' War actually lasted over 100 years
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Tomatoes orgininally came from the New World
+Left: 
+The Eiffel Tower was built in the 17th century
+Right: 
+Vikings reached North America before Columbus
+
+Parent: 
+The Eiffel Tower was built in the 17th century
+Left: 
+The Berlin Wall fell in 1989
+Right: Nullptr
+
+Parent: 
+The Berlin Wall fell in 1989
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Vikings reached North America before Columbus
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+The Great Pyramid of Giza is the only one of the ancient wonders of the world that still stands
+Left: 
+The United Nations was founded after World War I
+Right: 
+The Wright brothers invented the first successful airplane
+
+Parent: 
+The United Nations was founded after World War I
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+The Wright brothers invented the first successful airplane
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Genghis khan was the founder of the Mongol Empire
+Left: 
+The Roman Empire was founded before the Egyptian civilization
+Right: 
+The American Revolution started in 1775
+
+Parent: 
+The Roman Empire was founded before the Egyptian civilization
+Left: 
+The first president of the United States was George Washington
+Right: 
+Henry VIII had six wives
+
+Parent: 
+The first president of the United States was George Washington
+Left: 
+The Declaration of Independence was signed in 1776
+Right: 
+The Black Death occurred in the 20th century
+
+Parent: 
+The Declaration of Independence was signed in 1776
+Left: Nullptr
+Right: 
+The Roman Empire fell in 476 AD
+
+Parent: 
+The Roman Empire fell in 476 AD
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+The Black Death occurred in the 20th century
+Left: Nullptr
+Right: 
+Leonardo da Vinci designed a primitive version of a helicopter
+
+Parent: 
+Leonardo da Vinci designed a primitive version of a helicopter
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Henry VIII had six wives
+Left: 
+Einstein failed math as a student
+Right: Nullptr
+
+Parent: 
+Einstein failed math as a student
+Left: Nullptr
+Right: 
+China faught in World War II
+
+Parent: 
+China faught in World War II
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+The American Revolution started in 1775
+Left: 
+The declaration of independance was signed in Boston
+Right: 
+The first man to walk on the moon was Neil Armstrong
+
+Parent: 
+The declaration of independance was signed in Boston
+Left: 
+The Cold War involved direct fighting between the USA and USSR
+Right: 
+Gunpowder was invented in China
+
+Parent: 
+The Cold War involved direct fighting between the USA and USSR
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Gunpowder was invented in China
+Left: Nullptr
+Right: 
+The Battle of Hastings took place in 1066
+
+Parent: 
+The Battle of Hastings took place in 1066
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+The first man to walk on the moon was Neil Armstrong
+Left: 
+The Incan empire lasted for over 2,000 years
+Right: 
+World War I began in 1914
+
+Parent: 
+The Incan empire lasted for over 2,000 years
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+World War I began in 1914
+Left: 
+California and Texas were once part of Mexico
+Right: 
+Humans were partly responsible for the extinction of dinosaurs
+
+Parent: 
+California and Texas were once part of Mexico
+Left: Nullptr
+Right: Nullptr
+
+Parent: 
+Humans were partly responsible for the extinction of dinosaurs
+Left: Nullptr
+Right: 
+Julius Caesar was the first emperor of Rome
+
+Parent: 
+Julius Caesar was the first emperor of Rome
+Left: Nullptr
+Right: Nullptr
+
